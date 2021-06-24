@@ -35,7 +35,7 @@ Mod | 作者 | 介绍 | 链接 | 环境 | 版本(Fabric)
 [**MultiConnect**](https://github.com/Earthcomputer/multiconnect) | Earthcomputer | 跨版本连接服务器 | [CF](https://www.curseforge.com/minecraft/mc-mods/multiconnect) | 客户端 | 1.14.4-1.17⭐
 [**Replay Mod**](https://github.com/ReplayMod/ReplayMod) | CrushedPixel<br>johni0702 | 录像、回放、剪辑 | [官网](https://www.replaymod.com/) | 客户端 | 1.14.2-1.16.5
 [**Tweakeroo**](https://github.com/maruohon/tweakeroo) | masa | 万能工具箱<br>**需要[MaLiLib](#malilib)** | [CF](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) | 客户端 | 1.14-1.17⭐
-[**WorldEdit**](https://github.com/EngineHub/WorldEdit) | *EngineHub* | 创世神插件<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/worldedit) | 服务端 | 1.14.4-1.16.5
+[**WorldEdit**](https://github.com/EngineHub/WorldEdit) | *EngineHub* | 创世神插件<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/worldedit) | 服务端 | 1.14.4-**1.17(SNAPSHOT)**❓
 **信息显示类**
 [**Mod Menu**](https://github.com/TerraformersMC/ModMenu) | Prospector | Mod管理菜单 | [CF](https://www.curseforge.com/minecraft/mc-mods/modmenu)/[MR](https://modrinth.com/mod/modmenu) | 客户端 | 1.14-1.17⭐
 **Inventory HUD+** | DmitryLovin | 耐久/物品栏/药水显示HUD<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | 客户端 | 1.14.4-1.17⭐
