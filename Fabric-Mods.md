@@ -30,8 +30,7 @@ Mod | 作者 | 介绍 | 链接 | 环境 | 版本(Fabric)
 **工具类**
 [**AntiGhost**](https://github.com/gbl/AntiGhost) | Giselbaer | 按G键清除幽灵方块<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/antighost)/[MR](https://modrinth.com/mod/antighost) | 客户端 | 1.14.4-1.17⭐
 [**Client Commands**](https://github.com/Earthcomputer/clientcommands) | Earthcomputer | 客户端实用命令集<br>**需要[FabricAPI](#fabric-api)** | - | 客户端 | 1.14-1.17⭐
-**G4meSpeed** | G4me4u | 活塞动画优化与TPS调整 | [Youtube](https://www.youtube.com/watch?v=lRvNknl0QPM) | 同时安装
-| 1.15.2-1.17⭐
+**G4meSpeed** | G4me4u | 活塞动画优化与TPS调整 | [Youtube](https://www.youtube.com/watch?v=lRvNknl0QPM) | 同时安装 | 1.15.2-1.17⭐
 [**Litematica**](https://github.com/maruohon/litematica) | masa | 原理图投影<br>**需要[MaLiLib](#malilib)** | [CF](https://www.curseforge.com/minecraft/mc-mods/litematica) | 客户端 | 1.14-1.17⭐
 [**MultiConnect**](https://github.com/Earthcomputer/multiconnect) | Earthcomputer | 跨版本连接服务器 | [CF](https://www.curseforge.com/minecraft/mc-mods/multiconnect) | 客户端 | 1.14.4-1.17⭐
 [**Replay Mod**](https://github.com/ReplayMod/ReplayMod) | CrushedPixel<br>johni0702 | 录像、回放、剪辑 | [官网](https://www.replaymod.com/) | 客户端 | 1.14.2-1.16.5
@@ -63,7 +62,7 @@ Mod | 作者 | 介绍 | 链接 | 环境 | 版本(Fabric)
 [**Phosphor**](https://github.com/CaffeineMC/phosphor-fabric) | JellySquid3 | 光照性能优化 **不兼容Starlight** | [CF](https://www.curseforge.com/minecraft/mc-mods/phosphor)/[MR](https://modrinth.com/mod/phosphor) | 服务端 | 1.15.2-1.16.5⭐
 [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) | JellySquid3 | 现代化渲染引擎，客户端优化 | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium)/[MR](https://modrinth.com/mod/sodium) | 客户端 | 1.16-**1.17(测试)** ❓
 [**Sodium Extra**](https://github.com/FlashyReese/sodium-extra-fabric) | FlashyReese | Sodium扩展, 更多视频选项 **需要Sodium** | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)/[MR](https://modrinth.com/mod/sodium-extra) | 客户端 | 1.16.2-1.16.5
-[**Starlight**](https://github.com/Spottedleaf/Starlight) | Spottedleaf | 重写光照引擎 **不兼容Phosphor** ***仍在测试版本*** | - | 服务端 | 1.16-1.17❓
+[**Starlight**](https://github.com/Spottedleaf/Starlight) | Spottedleaf | 重写光照引擎<br>**不兼容Phosphor** ***仍在测试版本*** | - | 服务端 | 1.16-1.17❓
 **其他**
 [**Iris**](https://github.com/IrisShaders/Iris) | coderbot | 兼容Optifine光影的全新光影Mod | [CF](https://www.curseforge.com/minecraft/mc-mods/irisshaders)/[MR](https://modrinth.com/mod/iris) | 客户端 | 1.16.5-1.17⭐
 [**Not Enough Craches**](https://github.com/natanfudge/not-enough-crashes) | Fudge<br>Runemoro | 崩溃时显示详细信息并且游戏不会直接退出 | [CF](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | 通用 | 1.14.4-1.17⭐
