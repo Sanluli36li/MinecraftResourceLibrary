@@ -1,6 +1,6 @@
 # Fabric模组库
 
-这是一个由Sanluli36li整理的生电向辅助类的Mod  
+这是一个由Sanluli36li整理的生电向辅助类的Mod列表  
 以下所有的Mod全部使用Fabric-Loader加载, 其中部分Mod有Forge版本  
 **懒人请移步[这里](https://www.mcbbs.net/thread-1211050-1-1.html)**
   

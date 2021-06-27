@@ -1,9 +1,9 @@
 # 资源包与光影
 
-这是一个由Sanluli36li整理资源包列表  
-这些资源以原版风格、视觉强化、功能向为主  
+这是一个由Sanluli36li整理的资源包列表  
+这些资源以原版风格、视觉强化、功能向为主，应该不需要Optifine支持。  
   
-要下载的话，首选Curseforge，因为这会给原作者带来收入  
+要下载的话，首选Curseforge，因为可以给原作者带来收入   
 **CF**=[Curseforge](https://www.curseforge.com/minecraft) 
 
 ## 资源包列表

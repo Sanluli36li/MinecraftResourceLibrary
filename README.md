@@ -7,3 +7,5 @@
 ### [Fabric模组](Fabric-Mods.md)
 ### [资源包与光影](Resource-Packs.md)
 ### [外部工具软件](External-Tools.md)
+### [服务端工具](Server-Tools.md)
+### [脚本和数据包](Scripts-and-Datapacks.md)
