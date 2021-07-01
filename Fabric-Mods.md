@@ -83,7 +83,7 @@ Mod | 作者 | 链接 | 环境 | 版本(Fabric)
 # 常见冲突解决方案
 
 ## Masa的Mod切换窗口、输入中文后按键失灵
-在MaLiLib的设置(默认为A+C，或使用ModMenu)中将`IgnoreKeys`设置为`LEFT_SUPER`(Windows键) [方法来自 MaLiLib#16](https://github.com/maruohon/malilib/issues/16)
+在MaLiLib的设置(默认为A+C，或使用ModMenu)中将`ignoredKeys`设置为`LEFT_SUPER`(Windows键) [方法来自 MaLiLib#16](https://github.com/maruohon/malilib/issues/16)
 
 ## 安装了Item Scroller时EasierVillagerTrading无效
 关闭ItemScroller的`enableVillagerTradeFeatures`功能即可正常使用EasierVillagerTrading
