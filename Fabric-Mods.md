@@ -10,7 +10,8 @@
 ### 运行环境解释  
 - `通用` 指在客户端与服务器上分别生效
 - `客户端` 指仅需要在客户端上安装的Mod  
-- `服务端` 指仅需要在服务端上安装的Mod, 在客户端上安装时应用于单机游戏
+- `服务端` 指仅需要在服务端上安装的Mod，在客户端上安装时应用于单机游戏
+- `客户端`+`服务端` 其中一部分功能仅需要客户端安装，但部分功能需要服务端安装
 - `同时安装` 指单机游戏可用，但在服务器需要服务端也安装Mod
 - `专用服务器` 指仅能在服务端上安装的Mod
 
@@ -43,6 +44,7 @@ Mod | 作者 | 介绍 | 链接 | 环境 | 版本(Fabric)
 [**Pistorder**](https://github.com/Fallen-Breath/pistorder) | Fallen_Breath | 活塞推动信息显示 | [CF](https://www.curseforge.com/minecraft/mc-mods/pistorder) | 客户端 | 1.14.4-1.17⭐
 **VoxelMap** | MamiyaOtaru | 小地图和世界地图 | [CF](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 客户端 | 1.14-1.17⭐
 [**WorldEditCUI**](https://github.com/mikroskeem/WorldEditCUI) | zmlaoeu<br>mikroskeem | WorldEdit操作可视化<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) | 客户端 | 1.14.4-1.16.5
+[**WTHIT**](https://github.com/badasintended/wthit) | deirn | 目标信息显示 [弃坑的Hwyla(1.14-1.16.5)](https://www.curseforge.com/minecraft/mc-mods/hwyla)<br>**吐槽:** 这个Mod在不停的弃坑和接手<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/wthit)/[MR](https://modrinth.com/mod/wthit) | 客户端<br>服务端 | 1.16.5-1.17⭐
 **便捷操作类**
 [**ClickThrough**](https://github.com/gbl/ClickThrough) | Giselbaer | 右键穿透牌子和物品展示框<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/clickthrough)/[MR](https://modrinth.com/mod/clickthrough) | 客户端 | 1.15.2-1.17⭐
 [**Easier Village Trading**](https://github.com/gbl/EasierVillagerTrading) | Giselbaer | 单击交易选项即进行交易, 按shift单击全部交易<br>**需要[FabricAPI](#fabric-api)**<br>[解决ItemSroller同时安装时该Mod无效果](#安装了item-scroller时easiervillagertrading无效) | [CF](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading)/[MR](https://modrinth.com/mod/easiervillagertrading) | 客户端 | 1.14.4-1.17⭐
