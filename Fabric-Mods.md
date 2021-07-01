@@ -58,7 +58,7 @@ Mod | 作者 | 介绍 | 链接 | 环境 | 版本(Fabric)
 [**Krypton**](https://github.com/astei/krypton) | tuxed | 优化网络堆栈，降低网络交互的占用 | [CF](https://www.curseforge.com/minecraft/mc-mods/krypton)/[MR](https://modrinth.com/mod/krypton) | 通用 | 1.16.2-1.17⭐
 [**LazyDFU**](https://github.com/astei/lazydfu) | tuxed | 数据修复器仅在需要时才会加载，加速游戏启动 | [CF](https://www.curseforge.com/minecraft/mc-mods/lazydfu)/[MR](https://modrinth.com/mod/lazydfu) | 通用 | 1.14-1.17⭐
 [**Lithium**](https://github.com/CaffeineMC/lithium-fabric) | JellySquid3 | 通用游戏逻辑/服务端性能优化 | [CF](https://www.curseforge.com/minecraft/mc-mods/lithium)/[MR](https://modrinth.com/mod/lithium) | 服务端 | 1.15.2-1.17⭐
-[OptiFabric](https://github.com/Chocohead/OptiFabric) | Modmuss50<br>Chocohead | [Optifine](https://www.optifine.net/home)加载器 **不兼容Lithium Sodium等<br>*[不使用Optifine的理由及替代方案](https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468#Sodium)***<br> | [CF](https://www.curseforge.com/minecraft/mc-mods/optifabric) | 客户端 | 1.14-1.17❗
+[OptiFabric](https://github.com/Chocohead/OptiFabric)❗ | Modmuss50<br>Chocohead | [Optifine](https://www.optifine.net/home)加载器 **不兼容Lithium Sodium等<br>*[不使用Optifine的理由及替代方案](https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468#Sodium)***<br> | [CF](https://www.curseforge.com/minecraft/mc-mods/optifabric) | 客户端 | 1.14-1.17
 [**Phosphor**](https://github.com/CaffeineMC/phosphor-fabric) | JellySquid3 | 光照性能优化 **不兼容Starlight** | [CF](https://www.curseforge.com/minecraft/mc-mods/phosphor)/[MR](https://modrinth.com/mod/phosphor) | 服务端 | 1.15.2-1.16.5⭐
 [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) | JellySquid3 | 现代化渲染引擎，客户端优化 | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium)/[MR](https://modrinth.com/mod/sodium) | 客户端 | 1.16-**1.17(测试)** ❓
 [**Sodium Extra**](https://github.com/FlashyReese/sodium-extra-fabric) | FlashyReese | Sodium扩展, 更多视频选项 **需要Sodium** | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)/[MR](https://modrinth.com/mod/sodium-extra) | 客户端 | 1.16.2-1.16.5
@@ -81,6 +81,9 @@ Mod | 作者 | 链接 | 环境 | 版本(Fabric)
 [**MaLiLib**](https://github.com/maruohon/malilib)<span id="malilib"></span> | masa | [CF](https://www.curseforge.com/minecraft/mc-mods/malilib) | 客户端 | 1.14-1.17⭐
   
 # 常见冲突解决方案
+
+## Masa的Mod切换窗口、输入中文后按键失灵
+在MaLiLib的设置(默认为A+C，或使用ModMenu)中将IgnoreKeys设置为LEFT_SUPER(Windows键) [方法来自 MaLiLib#16](https://github.com/maruohon/malilib/issues/16)
 
 ## 安装了Item Scroller时EasierVillagerTrading无效
 关闭ItemScroller的`enableVillagerTradeFeatures`功能即可正常使用EasierVillagerTrading
