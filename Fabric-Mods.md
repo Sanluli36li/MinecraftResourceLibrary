@@ -56,14 +56,14 @@ Mod | 作者 | 介绍 | 链接 | 环境 | 版本(Fabric)
 [**DimensionalThreading**](https://github.com/WearBlackAllDay/DimensionalThreading) | WearBlackAllDay | 每个维度分线程计算<br>*刷沙机失效* | - | 服务端 | 1.16.1-1.17⭐
 [**Dynamic FPS**](https://github.com/juliand665/Dynamic-FPS) | juliand665 | 游戏处于后台时锁定帧率以降低性能消耗<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)/[MR](https://modrinth.com/mod/dynamic-fps) | 客户端 | 1.14-1.17⭐
 [**FastChest**](https://github.com/FakeDomi/FastChest) | Domi | 箱子使用方块渲染降低卡顿, 但箱子没有动画<br>**需要[FabricAPI](#fabric-api)** | [CF](https://www.curseforge.com/minecraft/mc-mods/fastchest) | 客户端 | 1.15-1.17⭐
-[**Hydrogen**](https://github.com/CaffeineMC/hydrogen-fabric) | JellySquid3 | 优化数据结构逻辑，降低内存消耗 | [MR](https://modrinth.com/mod/hydrogen) | 通用 | 1.16.2-1.17⭐
+[**Hydrogen**](https://github.com/CaffeineMC/hydrogen-fabric) | JellySquid3 | 优化数据结构逻辑，降低内存消耗 | [MR](https://modrinth.com/mod/hydrogen) | 通用 | 1.16.2-1.17.1⭐
 [**Krypton**](https://github.com/astei/krypton) | tuxed | 优化网络堆栈，降低网络交互的占用 | [CF](https://www.curseforge.com/minecraft/mc-mods/krypton)/[MR](https://modrinth.com/mod/krypton) | 通用 | 1.16.2-1.17.1⭐
 [**LazyDFU**](https://github.com/astei/lazydfu) | tuxed | 数据修复器仅在需要时才会加载，加速游戏启动 | [CF](https://www.curseforge.com/minecraft/mc-mods/lazydfu)/[MR](https://modrinth.com/mod/lazydfu) | 通用 | 1.14-1.17.1⭐
 [**Lithium**](https://github.com/CaffeineMC/lithium-fabric) | JellySquid3 | 通用游戏逻辑/服务端性能优化 | [CF](https://www.curseforge.com/minecraft/mc-mods/lithium)/[MR](https://modrinth.com/mod/lithium) | 服务端 | 1.15.2-1.17⭐
 [OptiFabric](https://github.com/Chocohead/OptiFabric)❗ | Modmuss50<br>Chocohead | [Optifine](https://www.optifine.net/home)加载器 **不兼容Lithium Sodium等<br>*[不使用Optifine的理由及替代方案](https://gist.github.com/modmuss50/deff1658c4550ca8b16cb5d40ceaa468#Sodium)***<br> | [CF](https://www.curseforge.com/minecraft/mc-mods/optifabric) | 客户端 | 1.14-1.17
 [**Phosphor**](https://github.com/CaffeineMC/phosphor-fabric) | JellySquid3 | 光照性能优化 **不兼容Starlight** | [CF](https://www.curseforge.com/minecraft/mc-mods/phosphor)/[MR](https://modrinth.com/mod/phosphor) | 服务端 | 1.15.2-1.16.5
-[**Sodium**](https://github.com/CaffeineMC/sodium-fabric) | JellySquid3 | 现代化渲染引擎，客户端优化 | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium)/[MR](https://modrinth.com/mod/sodium) | 客户端 | 1.16-**1.17(测试)❓**
-[**Sodium Extra**](https://github.com/FlashyReese/sodium-extra-fabric) | FlashyReese | Sodium扩展, 更多视频选项 **需要Sodium** | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)/[MR](https://modrinth.com/mod/sodium-extra) | 客户端 | 1.16.2-1.16.5
+[**Sodium**](https://github.com/CaffeineMC/sodium-fabric) | JellySquid3 | 现代化渲染引擎，客户端优化 | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium)/[MR](https://modrinth.com/mod/sodium) | 客户端 | 1.16-1.17.1⭐
+[**Sodium Extra**](https://github.com/FlashyReese/sodium-extra-fabric) | FlashyReese | Sodium扩展, 更多视频选项 **需要Sodium** | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)/[MR](https://modrinth.com/mod/sodium-extra) | 客户端 | 1.16.2-1.17.1⭐
 [**Starlight**](https://github.com/Spottedleaf/Starlight) | Spottedleaf | 重写光照引擎<br>**不兼容Phosphor** ***仍在测试版本*** | - | 服务端 | 1.16-1.17❓
 **其他**
 [**Iris**](https://github.com/IrisShaders/Iris) | coderbot | 兼容Optifine光影的全新光影Mod | [CF](https://www.curseforge.com/minecraft/mc-mods/irisshaders)/[MR](https://modrinth.com/mod/iris) | 客户端 | 1.16.5-1.17
